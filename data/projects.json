@@ -505,5 +505,38 @@
     "order": 17,
     "updatedAt": "2026-11-11T14:54:50.750Z",
     "createdAt": "2026-11-11T14:54:50.750Z"
+  },
+  {
+    "id": "creativity-is-seeing-things-differently",
+    "title": "Creativity Is Seeing Things Differently",
+    "category": "video-editing",
+    "description": "A creative short-form motion graphics video exploring the power of creativity and different perspectives. This project combines animated typography, visual storytelling, 3D brain visuals, pop-culture meme elements, and motivational messages. Designed with smooth transitions, dynamic text animations, and clean visual compositions to create an engaging and memorable viewing experience.",
+    "tags": [
+      "Motion Graphics",
+      "Kinetic Typography",
+      "Creative Editing",
+      "Visual Storytelling",
+      "Meme Editing",
+      "Inspirational Video"
+    ],
+    "mediaItems": [
+      {
+        "path": "assets/projects/creativity-is-seeing-things-differently/1794409023562-icn57-1023-2.mp4",
+        "type": "video"
+      }
+    ],
+    "media": "assets/projects/creativity-is-seeing-things-differently/1794409023562-icn57-1023-2.mp4",
+    "mediaType": "video",
+    "layout": "standard",
+    "published": true,
+    "featured": false,
+    "client": "Personal Project",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 18,
+    "updatedAt": "2026-11-11T14:57:35.455Z",
+    "createdAt": "2026-11-11T14:57:35.455Z"
   }
 ]
