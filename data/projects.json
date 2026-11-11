@@ -472,5 +472,38 @@
     "order": 16,
     "updatedAt": "2026-11-11T14:12:47.884Z",
     "createdAt": "2026-11-11T14:12:47.884Z"
+  },
+  {
+    "id": "from-random-posting-to-real-growth",
+    "title": "From Random Posting to Real Growth",
+    "category": "video-editing",
+    "description": "A creative kinetic typography motion graphics video highlighting the importance of a proper social media content strategy. The video communicates how random posting without planning and direction leads to poor results, while consistent content, clear messaging, and a strong strategy create real growth. Designed with bold typography, smooth transitions, minimal visuals, and striking yellow, black, and white colour combinations.",
+    "tags": [
+      "Motion Graphics",
+      "Kinetic Typography",
+      "Social Media",
+      "Content Strategy",
+      "Video Editing",
+      "Typography Animation"
+    ],
+    "mediaItems": [
+      {
+        "path": "assets/projects/from-random-posting-to-real-growth/1794408852721-mkeiv-1023-1.mp4",
+        "type": "video"
+      }
+    ],
+    "media": "assets/projects/from-random-posting-to-real-growth/1794408852721-mkeiv-1023-1.mp4",
+    "mediaType": "video",
+    "layout": "standard",
+    "published": true,
+    "featured": true,
+    "client": "Personal Project",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 17,
+    "updatedAt": "2026-11-11T14:54:50.750Z",
+    "createdAt": "2026-11-11T14:54:50.750Z"
   }
 ]
