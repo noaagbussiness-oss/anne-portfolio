@@ -76,5 +76,31 @@
     "order": 3,
     "updatedAt": "2026-11-11T10:57:42.702Z",
     "createdAt": "2026-11-11T10:57:42.702Z"
+  },
+  {
+    "id": "nexttech-best-laptops-guide",
+    "title": "NextTech – Best Laptops Buying Guide",
+    "category": "graphic-design",
+    "description": "A bold technology content thumbnail concept designed for NextTech. The artwork highlights a laptop buying guide with a strong black and yellow visual identity, featuring performance testing, battery life, price comparisons and gaming versus productivity.",
+    "tags": [],
+    "mediaItems": [
+      {
+        "path": "assets/projects/nexttech-best-laptops-guide/1794394745038-hbn3p-best-laptops-for-2025-guide-1.png",
+        "type": "image"
+      }
+    ],
+    "media": "assets/projects/nexttech-best-laptops-guide/1794394745038-hbn3p-best-laptops-for-2025-guide-1.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": true,
+    "client": "Personal Concept – NextTech",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 4,
+    "updatedAt": "2026-11-11T10:59:13.525Z",
+    "createdAt": "2026-11-11T10:59:13.525Z"
   }
 ]
