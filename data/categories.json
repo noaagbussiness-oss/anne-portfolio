@@ -33,5 +33,10 @@
     "id": "graphic-design",
     "label": "Graphic Design",
     "order": 7
+  },
+  {
+    "id": "video-editing",
+    "label": "Video editing",
+    "order": 8
   }
 ]
