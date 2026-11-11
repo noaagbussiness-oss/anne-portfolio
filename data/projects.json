@@ -538,5 +538,38 @@
     "order": 18,
     "updatedAt": "2026-11-11T14:57:35.455Z",
     "createdAt": "2026-11-11T14:57:35.455Z"
+  },
+  {
+    "id": "stop-comparing-your-beginning-to-someone-else-s-middle",
+    "title": "Stop Comparing Your Beginning to Someone Else's Middle",
+    "category": "video-editing",
+    "description": "A motivational animated typography video highlighting the negative effects of comparing your personal journey with others. Through creative illustrations, kinetic typography, smooth transitions, and engaging visual storytelling, the video explores how comparing your beginning to someone else's middle can damage your confidence. It delivers a powerful reminder that everyone has different starting points, struggles, and sacrifices. Created in a modern short-form vertical video format.",
+    "tags": [
+      "Motivational Video",
+      "Motion Graphics",
+      "Kinetic Typography",
+      "Animated Video",
+      "Visual Storytelling",
+      "Social Media Content"
+    ],
+    "mediaItems": [
+      {
+        "path": "assets/projects/stop-comparing-your-beginning-to-someone-else-s-middle/1794409722498-xvck7-1025-1.mp4",
+        "type": "video"
+      }
+    ],
+    "media": "assets/projects/stop-comparing-your-beginning-to-someone-else-s-middle/1794409722498-xvck7-1025-1.mp4",
+    "mediaType": "video",
+    "layout": "standard",
+    "published": true,
+    "featured": false,
+    "client": "Personal Project",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 19,
+    "updatedAt": "2026-11-11T15:09:13.225Z",
+    "createdAt": "2026-11-11T15:09:13.225Z"
   }
 ]
