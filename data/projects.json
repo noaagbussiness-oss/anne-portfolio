@@ -246,5 +246,38 @@
     "order": 9,
     "updatedAt": "2026-11-11T13:56:01.332Z",
     "createdAt": "2026-11-11T13:56:01.332Z"
+  },
+  {
+    "id": "aquapure-drinking-water-campaign",
+    "title": "AquaPure – Natural Drinking Water Campaign",
+    "category": "graphic-design",
+    "description": "A refreshing bottled water advertising concept created for AquaPure. The design features a premium water bottle, natural mountain scenery, flowing water and a clean blue visual identity. The composition highlights freshness, purity-inspired branding, product presentation and a strong promotional call to action.\n\nThis is a speculative portfolio project. Brand claims and contact details are illustrative.",
+    "tags": [
+      "Beverage Advertising",
+      "Water Bottle Design",
+      "Product Branding",
+      "Blue Theme",
+      "Commercial Poster",
+      "AI Rendering"
+    ],
+    "mediaItems": [
+      {
+        "path": "assets/projects/aquapure-drinking-water-campaign/1794405447966-kvw0b-aquapure-natural-water-advertisement.png",
+        "type": "image"
+      }
+    ],
+    "media": "assets/projects/aquapure-drinking-water-campaign/1794405447966-kvw0b-aquapure-natural-water-advertisement.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": false,
+    "client": "Personal Concept – AquaPure",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 10,
+    "updatedAt": "2026-11-11T13:57:38.711Z",
+    "createdAt": "2026-11-11T13:57:38.711Z"
   }
 ]
