@@ -371,5 +371,38 @@
     "order": 13,
     "updatedAt": "2026-11-11T14:07:45.232Z",
     "createdAt": "2026-11-11T14:07:45.232Z"
+  },
+  {
+    "id": "abans-corporate-business-card",
+    "title": "ABANS – Corporate Business Card Design",
+    "category": "branding-logo-design",
+    "description": "A premium corporate business card design concept for ABANS Company (Pvt) Ltd. The design combines a sophisticated black, white and gold colour palette with a clean layout, professional typography and an interior design visual. Created to represent a modern company specialising in doors, flooring, wall panels and building solutions.\n\nThis is an independent design concept and is not presented as officially commissioned ABANS artwork.",
+    "tags": [
+      "Business Card",
+      "Corporate Branding",
+      "Graphic Design",
+      "Print Design",
+      "Professional Identity",
+      "Gold Branding"
+    ],
+    "mediaItems": [
+      {
+        "path": "assets/projects/abans-corporate-business-card/1794406206269-vb4f3-luxury-black-and-gold-business-card-mockup.png",
+        "type": "image"
+      }
+    ],
+    "media": "assets/projects/abans-corporate-business-card/1794406206269-vb4f3-luxury-black-and-gold-business-card-mockup.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": true,
+    "client": "Personal Concept – ABANS",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 14,
+    "updatedAt": "2026-11-11T14:10:11.322Z",
+    "createdAt": "2026-11-11T14:10:11.322Z"
   }
 ]
