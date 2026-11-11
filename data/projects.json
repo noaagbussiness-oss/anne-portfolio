@@ -50,5 +50,31 @@
     "order": 2,
     "updatedAt": "2026-11-11T10:56:47.838Z",
     "createdAt": "2026-11-11T10:56:47.838Z"
+  },
+  {
+    "id": "glowwithme-beauty-lifestyle",
+    "title": "GlowWithMe – Beauty & Lifestyle Campaign",
+    "category": "ai-cinematic",
+    "description": "A modern beauty and lifestyle promotional campaign concept for GlowWithMe. The design features a soft pink aesthetic with beauty tutorials, fashion inspiration, self-care routines, daily vlogs and travel content. Created to communicate a friendly and engaging lifestyle brand identity.",
+    "tags": [],
+    "mediaItems": [
+      {
+        "path": "assets/projects/glowwithme-beauty-lifestyle/1794394657917-otcex-glowwithme-beauty-lifestyle-tips.png",
+        "type": "image"
+      }
+    ],
+    "media": "assets/projects/glowwithme-beauty-lifestyle/1794394657917-otcex-glowwithme-beauty-lifestyle-tips.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": true,
+    "client": "Personal Concept – GlowWithMe",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 3,
+    "updatedAt": "2026-11-11T10:57:42.702Z",
+    "createdAt": "2026-11-11T10:57:42.702Z"
   }
 ]
