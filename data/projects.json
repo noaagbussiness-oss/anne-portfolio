@@ -438,5 +438,39 @@
     "order": 15,
     "updatedAt": "2026-11-11T14:12:04.302Z",
     "createdAt": "2026-11-11T14:12:04.302Z"
+  },
+  {
+    "id": "beanora-coffee-house-brand-identity",
+    "title": "Beanora – Coffee House Brand Identity",
+    "category": "branding-logo-design",
+    "description": "A premium brand identity concept developed for Beanora Coffee House. The project features a distinctive coffee-inspired logo, alternative logo versions, brand icon, carefully selected colour palette and typography system. The identity is extended across coffee cups, coffee packaging, business cards and outdoor signage. The combination of deep plum, warm beige, olive green and cream creates a sophisticated and welcoming coffee house identity.\n\nThis is a self-initiated branding concept.",
+    "tags": [
+      "Coffee Shop Branding",
+      "Logo Design",
+      "Brand Identity",
+      "Packaging Design",
+      "Café Branding",
+      "Typography",
+      "Graphic Design"
+    ],
+    "mediaItems": [
+      {
+        "path": "assets/projects/beanora-coffee-house-brand-identity/1794406353573-tby8r-beanora-coffee-house-brand-identity.png",
+        "type": "image"
+      }
+    ],
+    "media": "assets/projects/beanora-coffee-house-brand-identity/1794406353573-tby8r-beanora-coffee-house-brand-identity.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": false,
+    "client": "Personal Concept – Beanora",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 16,
+    "updatedAt": "2026-11-11T14:12:47.884Z",
+    "createdAt": "2026-11-11T14:12:47.884Z"
   }
 ]
