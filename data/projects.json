@@ -605,5 +605,31 @@
     "order": 20,
     "updatedAt": "2026-11-11T15:18:33.431Z",
     "createdAt": "2026-11-11T15:18:33.431Z"
+  },
+  {
+    "id": "sds",
+    "title": "sds",
+    "category": "ai-cinematic",
+    "description": "sd",
+    "tags": [],
+    "mediaItems": [
+      {
+        "path": "assets/projects/sds/1794412080392-lk7lq-video-1.mp4",
+        "type": "video"
+      }
+    ],
+    "media": "assets/projects/sds/1794412080392-lk7lq-video-1.mp4",
+    "mediaType": "video",
+    "layout": "standard",
+    "published": true,
+    "featured": false,
+    "client": "",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 21,
+    "updatedAt": "2026-11-11T15:49:02.459Z",
+    "createdAt": "2026-11-11T15:49:02.459Z"
   }
 ]
