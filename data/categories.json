@@ -28,5 +28,10 @@
     "id": "branding-logo-design",
     "label": "Branding & Logo Design",
     "order": 6
+  },
+  {
+    "id": "graphic-design",
+    "label": "Graphic Design",
+    "order": 7
   }
 ]
