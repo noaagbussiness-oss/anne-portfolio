@@ -608,10 +608,19 @@
   },
   {
     "id": "sds",
-    "title": "sds",
+    "title": "your-imagination-is-the-real-power",
     "category": "ai-cinematic",
-    "description": "sd",
-    "tags": [],
+    "description": "A creative vertical motion graphics video exploring the power of imagination in video editing. The project features kinetic typography, animated software icons, smooth transitions, purple gradient effects, and engaging visual storytelling. It highlights popular editing tools such as Adobe Premiere Pro, DaVinci Resolve, and CapCut, delivering a powerful message that creativity is not limited by software but driven by imagination and ideas.",
+    "tags": [
+      "Motion Graphics",
+      "Video Editing",
+      "Kinetic Typography",
+      "Creative Animation",
+      "Premiere Pro",
+      "DaVinci Resolve",
+      "CapCut",
+      "Visual Storytelling"
+    ],
     "mediaItems": [
       {
         "path": "assets/projects/sds/1794412080392-lk7lq-video-1.mp4",
@@ -623,13 +632,13 @@
     "layout": "standard",
     "published": true,
     "featured": false,
-    "client": "",
+    "client": "Personal Project",
     "year": "2026",
     "role": "",
     "tools": "",
     "externalUrl": "",
     "order": 21,
-    "updatedAt": "2026-11-11T15:49:02.459Z",
+    "updatedAt": "2026-11-11T15:57:45.678Z",
     "createdAt": "2026-11-11T15:49:02.459Z"
   }
 ]
