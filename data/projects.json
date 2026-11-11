@@ -345,5 +345,31 @@
     "order": 12,
     "updatedAt": "2026-11-11T14:00:54.789Z",
     "createdAt": "2026-11-11T14:00:09.213Z"
+  },
+  {
+    "id": "post",
+    "title": "post",
+    "category": "graphic-design",
+    "description": "2024",
+    "tags": [],
+    "mediaItems": [
+      {
+        "path": "assets/projects/post/1794406033709-nv7t2-poster-53.png",
+        "type": "image"
+      }
+    ],
+    "media": "assets/projects/post/1794406033709-nv7t2-poster-53.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": false,
+    "client": "",
+    "year": "2024",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 13,
+    "updatedAt": "2026-11-11T14:07:45.232Z",
+    "createdAt": "2026-11-11T14:07:45.232Z"
   }
 ]
