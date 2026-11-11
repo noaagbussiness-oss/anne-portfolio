@@ -1,39 +1,5 @@
 [
   {
-    "id": "annes-gaming-world",
-    "title": "Anne's Gaming World",
-    "category": "gaming",
-    "description": "Gaming content built around Free Fire gameplay, challenges, fun moments and character-focused ideas, with future plans for live streams and community growth.",
-    "tags": [
-      "Free Fire",
-      "Gaming",
-      "Gameplay",
-      "Challenges",
-      "Community"
-    ],
-    "media": "images/gaming-project.jpg",
-    "mediaType": "image",
-    "layout": "standard",
-    "published": true,
-    "featured": true,
-    "client": "Anne's Gaming World",
-    "year": "2026",
-    "role": "Content Creator & Video Editor",
-    "tools": "CapCut, Social Media",
-    "externalUrl": "",
-    "order": 2,
-    "mediaItems": [
-      {
-        "path": "images/gaming-project.jpg",
-        "type": "image"
-      },
-      {
-        "path": "images/gaming-detail.jpg",
-        "type": "image"
-      }
-    ]
-  },
-  {
     "id": "advertisement-client-work",
     "title": "Advertisement & Client Work",
     "category": "client-ads",
