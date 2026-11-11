@@ -154,5 +154,31 @@
     "order": 6,
     "updatedAt": "2026-11-11T11:04:16.141Z",
     "createdAt": "2026-11-11T11:04:16.141Z"
+  },
+  {
+    "id": "noaak-creative-graphic-design-studio",
+    "title": "NoaAK – Creative Graphic Design Studio",
+    "category": "graphic-design",
+    "description": "A premium promotional banner concept for NoaAK Creative Digital Agency. The design showcases social media graphics, branding materials, print designs and creative visual concepts. Featuring a bold black and gold aesthetic, the composition highlights creative services and professional design capabilities.",
+    "tags": [],
+    "mediaItems": [
+      {
+        "path": "assets/projects/noaak-creative-graphic-design-studio/1794395092205-6lwsp-creative-graphic-design-studio-banner.png",
+        "type": "image"
+      }
+    ],
+    "media": "assets/projects/noaak-creative-graphic-design-studio/1794395092205-6lwsp-creative-graphic-design-studio-banner.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": false,
+    "client": "noaak-creative-design-studio",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 7,
+    "updatedAt": "2026-11-11T11:04:56.609Z",
+    "createdAt": "2026-11-11T11:04:56.609Z"
   }
 ]
