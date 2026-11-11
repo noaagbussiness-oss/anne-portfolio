@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": "soundhub-music-release",
+    "title": "SoundHub – New Music Release Campaign",
+    "category": "graphic-design",
+    "description": "A creative promotional campaign concept for SoundHub Music Channel, featuring an energetic new music release. The design combines premium gold and black visuals, DJ-inspired imagery, bold typography and music platform branding to create an engaging promotional poster.",
+    "tags": [],
+    "mediaItems": [
+      {
+        "path": "assets/projects/soundhub-music-release/1794394497398-1wkrq-neon-gold-soundhub-music-release.png",
+        "type": "image"
+      }
+    ],
+    "media": "assets/projects/soundhub-music-release/1794394497398-1wkrq-neon-gold-soundhub-music-release.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": true,
+    "client": "Personal Concept – SoundHub",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 1,
+    "updatedAt": "2026-11-11T10:55:13.192Z",
+    "createdAt": "2026-11-11T10:55:13.193Z"
+  }
+]
