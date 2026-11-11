@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ravana-hela-katha",
+    "title": "Ravana Hela Katha",
+    "category": "ai-cinematic",
+    "description": "An AI cinematic series exploring the ancient kingdom of Lanka, legends, history and different perspectives for a Sinhala-speaking youth audience.",
+    "tags": ["AI Cinematic", "Gemini", "Veo 3", "Flow", "Historical Storytelling"],
+    "media": "images/ravana-project.jpg",
+    "mediaType": "image",
+    "layout": "wide",
+    "published": true,
+    "featured": true,
+    "client": "Personal Creative Project",
+    "year": "2026",
+    "role": "AI Video Creator & Storyteller",
+    "tools": "Gemini, Veo 3, Flow",
+    "externalUrl": "",
+    "order": 1,
+    "mediaItems": [
+      {"path":"images/ravana-project.jpg","type":"image"},
+      {"path":"images/ravana-detail.jpg","type":"image"}
+    ]
+  },
+  {
+    "id": "annes-gaming-world",
+    "title": "Anne's Gaming World",
+    "category": "gaming",
+    "description": "Gaming content built around Free Fire gameplay, challenges, fun moments and character-focused ideas, with future plans for live streams and community growth.",
+    "tags": ["Free Fire", "Gaming", "Gameplay", "Challenges", "Community"],
+    "media": "images/gaming-project.jpg",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": true,
+    "client": "Anne's Gaming World",
+    "year": "2026",
+    "role": "Content Creator & Video Editor",
+    "tools": "CapCut, Social Media",
+    "externalUrl": "",
+    "order": 2,
+    "mediaItems": [
+      {"path":"images/gaming-project.jpg","type":"image"},
+      {"path":"images/gaming-detail.jpg","type":"image"}
+    ]
+  },
+  {
+    "id": "advertisement-client-work",
+    "title": "Advertisement & Client Work",
+    "category": "client-ads",
+    "description": "Creative video advertisements for brands and businesses using AI tools and digital editing, including travel packages, product promotions and service-focused ads.",
+    "tags": ["Client Ads", "AI Video", "Digital Editing", "Travel", "Product Ads"],
+    "media": "images/ads-project.jpg",
+    "mediaType": "image",
+    "layout": "wide",
+    "published": true,
+    "featured": true,
+    "client": "Sample Client Work",
+    "year": "2026",
+    "role": "AI Video Editor & Content Creator",
+    "tools": "AI Tools, CapCut",
+    "externalUrl": "",
+    "order": 3,
+    "mediaItems": [
+      {"path":"images/ads-project.jpg","type":"image"},
+      {"path":"images/ads-detail.jpg","type":"image"}
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+[
+  {"id":"ai-cinematic","label":"AI Cinematic","order":1},
+  {"id":"gaming","label":"Gaming Content","order":2},
+  {"id":"client-ads","label":"Client Ads","order":3}
+]
