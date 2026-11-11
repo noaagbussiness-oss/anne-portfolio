@@ -571,5 +571,39 @@
     "order": 19,
     "updatedAt": "2026-11-11T15:09:13.225Z",
     "createdAt": "2026-11-11T15:09:13.225Z"
+  },
+  {
+    "id": "you-don-t-need-more-ads",
+    "title": "You Don't Need More Ads",
+    "category": "video-editing",
+    "description": "A dynamic short-form business marketing video designed to highlight the importance of effective social media content and audience engagement. This project combines kinetic typography, animated text, smartphone mockups, social media profile visuals, audience statistics, and smooth motion transitions. Featuring a bold opening hook and clean blue-and-white visual styling, the video delivers a modern promotional message aimed at business owners and digital audiences.",
+    "tags": [
+      "Business Marketing",
+      "Social Media Marketing",
+      "Motion Graphics",
+      "Promotional Video",
+      "Kinetic Typography",
+      "Instagram Marketing",
+      "Video Editing"
+    ],
+    "mediaItems": [
+      {
+        "path": "assets/projects/you-don-t-need-more-ads/1794410298153-qu2bj-1109.mp4",
+        "type": "video"
+      }
+    ],
+    "media": "assets/projects/you-don-t-need-more-ads/1794410298153-qu2bj-1109.mp4",
+    "mediaType": "video",
+    "layout": "standard",
+    "published": true,
+    "featured": true,
+    "client": "Personal Project",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 20,
+    "updatedAt": "2026-11-11T15:18:33.431Z",
+    "createdAt": "2026-11-11T15:18:33.431Z"
   }
 ]
