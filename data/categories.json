@@ -18,5 +18,10 @@
     "id": "social-media-content",
     "label": "Social Media Content",
     "order": 4
+  },
+  {
+    "id": "motion-graphics-animation",
+    "label": "Motion Graphics & Animation",
+    "order": 5
   }
 ]
