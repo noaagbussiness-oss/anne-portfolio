@@ -102,5 +102,31 @@
     "order": 4,
     "updatedAt": "2026-11-11T10:59:13.525Z",
     "createdAt": "2026-11-11T10:59:13.525Z"
+  },
+  {
+    "id": "burgerhub-food-promotion",
+    "title": "BurgerHub – Burger Food Advertisement",
+    "category": "graphic-design",
+    "description": "A premium food advertising concept created for BurgerHub. The design showcases a delicious burger, fries and combo meals using bold black and yellow branding. The composition highlights product quality, food appeal and a strong order-now call to action.",
+    "tags": [],
+    "mediaItems": [
+      {
+        "path": "assets/projects/burgerhub-food-promotion/1794394814684-8hkmi-burgerhub-good-food-brighter-mood.png",
+        "type": "image"
+      }
+    ],
+    "media": "assets/projects/burgerhub-food-promotion/1794394814684-8hkmi-burgerhub-good-food-brighter-mood.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": false,
+    "client": "Personal Concept – BurgerHub",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 5,
+    "updatedAt": "2026-11-11T11:00:18.641Z",
+    "createdAt": "2026-11-11T11:00:18.641Z"
   }
 ]
