@@ -10,11 +10,6 @@
     "order": 2
   },
   {
-    "id": "client-ads",
-    "label": "Client Ads",
-    "order": 3
-  },
-  {
     "id": "social-media-content",
     "label": "Social Media Content",
     "order": 4
