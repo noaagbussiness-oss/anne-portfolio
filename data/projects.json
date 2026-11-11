@@ -128,5 +128,31 @@
     "order": 5,
     "updatedAt": "2026-11-11T11:00:18.641Z",
     "createdAt": "2026-11-11T11:00:18.641Z"
+  },
+  {
+    "id": "nexora-drive-your-story",
+    "title": "Nexora Motors – Drive Your Story Campaign",
+    "category": "graphic-design",
+    "description": "A complete automotive dealership campaign concept for Nexora Motors, designed as a five-panel promotional presentation. The campaign showcases vehicle categories, dealership benefits, featured cars, pricing presentation and customer contact information through a consistent red, black and white brand identity. Copy",
+    "tags": [],
+    "mediaItems": [
+      {
+        "path": "assets/projects/nexora-drive-your-story/1794395049190-6y1wz-nexora-motors-drive-your-story-2.png",
+        "type": "image"
+      }
+    ],
+    "media": "assets/projects/nexora-drive-your-story/1794395049190-6y1wz-nexora-motors-drive-your-story-2.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": false,
+    "client": "Personal Concept – Nexora Motors",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 6,
+    "updatedAt": "2026-11-11T11:04:16.141Z",
+    "createdAt": "2026-11-11T11:04:16.141Z"
   }
 ]
