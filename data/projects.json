@@ -312,5 +312,38 @@
     "order": 11,
     "updatedAt": "2026-11-11T13:58:29.709Z",
     "createdAt": "2026-11-11T13:58:16.955Z"
+  },
+  {
+    "id": "tastevilla-sri-lankan-food",
+    "title": "TasteVilla – Authentic Sri Lankan Food Advertisement",
+    "category": "ai-cinematic",
+    "description": "A premium restaurant advertising concept for TasteVilla, inspired by authentic Sri Lankan cuisine. The artwork showcases a traditional rice and curry meal with rich food photography, natural ingredients, traditional serving elements and a bold black and golden visual identity. Designed to create appetite appeal and promote a restaurant dining experience.\n\nThis is a speculative portfolio project. Menu prices, location and contact details are illustrative.",
+    "tags": [
+      "Food Advertising",
+      "Restaurant Branding",
+      "Sri Lankan Cuisine",
+      "Food Photography",
+      "Menu Promotion",
+      "AI Rendering"
+    ],
+    "mediaItems": [
+      {
+        "path": "assets/projects/tastevilla-sri-lankan-food/1794405598119-nkwwg-authentic-sri-lankan-rice-curry.png",
+        "type": "image"
+      }
+    ],
+    "media": "assets/projects/tastevilla-sri-lankan-food/1794405598119-nkwwg-authentic-sri-lankan-rice-curry.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": false,
+    "client": "Personal Concept – TasteVilla",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 12,
+    "updatedAt": "2026-11-11T14:00:09.213Z",
+    "createdAt": "2026-11-11T14:00:09.213Z"
   }
 ]
