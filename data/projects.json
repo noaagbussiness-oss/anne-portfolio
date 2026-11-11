@@ -279,5 +279,38 @@
     "order": 10,
     "updatedAt": "2026-11-11T13:57:38.711Z",
     "createdAt": "2026-11-11T13:57:38.711Z"
+  },
+  {
+    "id": "techzone-smartphone-sale",
+    "title": "TechZone – Latest Smartphone Promotional Campaign",
+    "category": "ai-cinematic",
+    "description": "A premium smartphone retail advertising concept for TechZone. Featuring a bold black and yellow colour scheme, the design showcases a flagship smartphone with product specifications, promotional pricing, accessory bundle highlights and retail branding. Created to deliver a modern, attention-grabbing electronics advertising experience.\n\nThis is a speculative portfolio project. Product pricing, specifications, offers and contact details are illustrative and require verification before commercial use.",
+    "tags": [
+      "Technology Advertisement",
+      "Smartphone Promotion",
+      "Electronics Branding",
+      "Product Marketing",
+      "Retail Design",
+      "AI Ads"
+    ],
+    "mediaItems": [
+      {
+        "path": "assets/projects/techzone-smartphone-sale/1794405492653-vuduo-techzone-smartphone-sale-poster.png",
+        "type": "image"
+      }
+    ],
+    "media": "assets/projects/techzone-smartphone-sale/1794405492653-vuduo-techzone-smartphone-sale-poster.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": false,
+    "client": "Personal Concept – TechZone",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 11,
+    "updatedAt": "2026-11-11T13:58:16.955Z",
+    "createdAt": "2026-11-11T13:58:16.955Z"
   }
 ]
