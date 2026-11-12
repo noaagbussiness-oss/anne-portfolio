@@ -945,5 +945,42 @@
     "order": 29,
     "updatedAt": "2026-11-12T16:59:08.331Z",
     "createdAt": "2026-11-12T16:59:08.331Z"
+  },
+  {
+    "id": "multi-industry-logo-design-brand-identity-collection-copy",
+    "title": "Multi-Industry Logo Design & Brand Identity Collection Copy",
+    "category": "branding-logo-design",
+    "description": "A creative collection of six unique logo and brand identity concepts designed for different industries. This project showcases modern visual branding, custom logo concepts, typography, colour combinations and industry-focused design approaches.\n\nThe collection includes automotive branding for Veloxar Motors, creative agency branding for NOA AK, real estate branding for Urban Nest Properties, coffee shop branding for BrewLeaf, agricultural branding for AgroVita and travel branding for Ceylon Trails.\n\nEach concept reflects a unique brand personality through professional visual identity, modern design elements and carefully selected colour palettes.",
+    "tags": [
+      "Logo Design",
+      "Brand Identity",
+      "Branding",
+      "Graphic Design",
+      "Automotive Branding",
+      "Real Estate Branding",
+      "Coffee Branding",
+      "Agriculture Branding",
+      "Travel Branding",
+      "AI Design"
+    ],
+    "mediaItems": [
+      {
+        "path": "assets/projects/multi-industry-logo-design-brand-identity-collection-copy/1794502966454-i1swe-premium-logo-portfolio-montage.png",
+        "type": "image"
+      }
+    ],
+    "media": "assets/projects/multi-industry-logo-design-brand-identity-collection-copy/1794502966454-i1swe-premium-logo-portfolio-montage.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": true,
+    "client": "Personal / Concept Project",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 30,
+    "updatedAt": "2026-11-12T17:02:50.912Z",
+    "createdAt": "2026-11-12T17:02:50.912Z"
   }
 ]
