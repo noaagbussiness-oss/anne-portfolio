@@ -714,5 +714,43 @@
     "order": 23,
     "updatedAt": "2026-11-12T07:30:23.210Z",
     "createdAt": "2026-11-12T07:30:23.210Z"
+  },
+  {
+    "id": "noa-ak-graphic-design-services",
+    "title": "NOA AK – Professional Graphic Design Services & Packages",
+    "category": "ai-cinematic",
+    "description": "A professional promotional video created for NOA AK Creative Digital Agency to showcase its graphic design services and affordable monthly design packages. The video features AI-generated presenter scenes, cinematic transitions, animated typography, premium brand visuals, and creative design showcases. It highlights logo design, social media posts, cover designs, motivational graphics, and customised monthly packages. The advertisement presents the Starter Package at LKR 9,000 and Standard Package at LKR 16,500, along with individual design services. Created to build brand awareness, attract potential clients, and promote NOA AK's creative design solutions.",
+    "tags": [
+      "NOA AK",
+      "Graphic Design",
+      "Social Media Design",
+      "Logo Design",
+      "AI Advertisement",
+      "Promotional Video",
+      "Design Packages",
+      "Motion Graphics",
+      "Brand Identity",
+      "Creative Digital Agency",
+      "AI Video Generation"
+    ],
+    "mediaItems": [
+      {
+        "path": "assets/projects/noa-ak-graphic-design-services/1794470849492-t0ycx-graphic-design-ads-1.mp4",
+        "type": "video"
+      }
+    ],
+    "media": "assets/projects/noa-ak-graphic-design-services/1794470849492-t0ycx-graphic-design-ads-1.mp4",
+    "mediaType": "video",
+    "layout": "standard",
+    "published": true,
+    "featured": true,
+    "client": "NOA AK Creative Digital Agency (Self-Promotion)",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 24,
+    "updatedAt": "2026-11-12T08:08:01.665Z",
+    "createdAt": "2026-11-12T08:08:01.665Z"
   }
 ]
