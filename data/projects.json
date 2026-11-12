@@ -790,5 +790,43 @@
     "order": 25,
     "updatedAt": "2026-11-12T08:19:57.193Z",
     "createdAt": "2026-11-12T08:19:57.193Z"
+  },
+  {
+    "id": "electric-standing-desk-advertisement",
+    "title": "Electric Standing Desk – Upgrade Your Workspace",
+    "category": "ai-cinematic",
+    "description": "A professional AI-powered product advertisement showcasing a modern electric height-adjustable standing desk. The video combines realistic office lifestyle scenes, AI-generated human characters, cinematic product demonstrations, and animated feature highlights to promote a healthier and more flexible workspace. Key features showcased include adjustable desk height from 60cm to 125cm, motorized single/dual motor operation, a maximum load capacity of 120kg, sturdy black and white frames, a 3-year warranty, and over 1,000 customizable tabletop colours. Custom tabletop sizes are available from 60 × 90cm to 210 × 100cm. Created to demonstrate product functionality, highlight customization options, and attract customers looking for premium ergonomic office furniture.",
+    "tags": [
+      "Standing Desk",
+      "Electric Desk",
+      "Height Adjustable Desk",
+      "Office Furniture",
+      "Ergonomic Workspace",
+      "AI Advertisement",
+      "AI Video Generation",
+      "Product Commercial",
+      "Product Showcase",
+      "Motion Graphics",
+      "Office Setup"
+    ],
+    "mediaItems": [
+      {
+        "path": "assets/projects/electric-standing-desk-advertisement/1794474325731-nr2jy-adjusment-desk-1.mp4",
+        "type": "video"
+      }
+    ],
+    "media": "assets/projects/electric-standing-desk-advertisement/1794474325731-nr2jy-adjusment-desk-1.mp4",
+    "mediaType": "video",
+    "layout": "standard",
+    "published": true,
+    "featured": false,
+    "client": "Electric Standing Desk – Product Promotion",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 26,
+    "updatedAt": "2026-11-12T09:06:08.233Z",
+    "createdAt": "2026-11-12T09:06:08.233Z"
   }
 ]
