@@ -828,5 +828,44 @@
     "order": 26,
     "updatedAt": "2026-11-12T09:06:08.233Z",
     "createdAt": "2026-11-12T09:06:08.233Z"
+  },
+  {
+    "id": "noa-ak-ai-video-advertising",
+    "title": "NOA AK – AI Video Ads & Creative Digital Solutions",
+    "category": "ai-cinematic",
+    "description": "A professional AI-powered promotional video created for NOA AK Creative Digital Agency to showcase its creative advertising and digital media services. The video features AI-generated male and female presenters, cinematic visuals, dynamic typography, animated brand elements, and engaging Sinhala promotional content. It highlights the agency's key services, including professional video advertisements, product ads, brand promotions, AI logo animations, and image-to-video animation solutions. Combining AI-generated characters with modern visual storytelling, the project demonstrates how creative technology can help businesses promote their brands and connect with their target audiences. Designed to establish brand identity, communicate creative capabilities, and attract potential business clients.",
+    "tags": [
+      "NOA AK",
+      "Creative Digital Agency",
+      "AI Video Advertising",
+      "AI Presenters",
+      "Video Advertisements",
+      "Product Ads",
+      "Brand Promotions",
+      "AI Logo Animation",
+      "Image to Video",
+      "Sinhala Advertisement",
+      "Motion Graphics",
+      "Digital Marketing"
+    ],
+    "mediaItems": [
+      {
+        "path": "assets/projects/noa-ak-ai-video-advertising/1794477281901-nxm6i-1101-1.mp4",
+        "type": "video"
+      }
+    ],
+    "media": "assets/projects/noa-ak-ai-video-advertising/1794477281901-nxm6i-1101-1.mp4",
+    "mediaType": "video",
+    "layout": "standard",
+    "published": true,
+    "featured": false,
+    "client": "NOA AK Creative Digital Agency (Self-Promotion)",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 27,
+    "updatedAt": "2026-11-12T09:55:02.019Z",
+    "createdAt": "2026-11-12T09:55:02.019Z"
   }
 ]
