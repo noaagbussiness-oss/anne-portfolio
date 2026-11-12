@@ -906,5 +906,44 @@
     "order": 28,
     "updatedAt": "2026-11-12T16:54:48.451Z",
     "createdAt": "2026-11-12T16:54:48.451Z"
+  },
+  {
+    "id": "veloxar-motors-automotive-brand-identity",
+    "title": "VELOXAR MOTORS – Automotive Logo & Brand Identity",
+    "category": "branding-logo-design",
+    "description": "A premium automotive brand identity concept designed for VELOXAR MOTORS, inspired by speed, performance, innovation, and luxury.\n\nThe project features a sleek and dynamic automotive logo incorporating an abstract vehicle silhouette, representing movement, precision, and modern automotive engineering.\n\nThe visual identity combines a sophisticated black, graphite, metallic silver, and deep red colour palette to create a bold and powerful brand presence.\n\nThe design presentation includes the primary logo, monochrome variation, compact app icon, and a carefully developed brand colour palette.\n\nCreated to reflect the spirit of modern automotive excellence with the brand tagline \"DRIVE BEYOND\".\n\nCreative Design by NOA AK.",
+    "tags": [
+      "Automotive Logo",
+      "Car Branding",
+      "Luxury Branding",
+      "Logo Design",
+      "Brand Identity",
+      "Automotive Design",
+      "Minimalist Logo",
+      "Modern Logo",
+      "Vehicle Branding",
+      "Creative Graphic Design",
+      "Visual Identity",
+      "NOA AK"
+    ],
+    "mediaItems": [
+      {
+        "path": "assets/projects/veloxar-motors-automotive-brand-identity/1794502730911-m540r-veloxar-motors-drive-beyond.png",
+        "type": "image"
+      }
+    ],
+    "media": "assets/projects/veloxar-motors-automotive-brand-identity/1794502730911-m540r-veloxar-motors-drive-beyond.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": false,
+    "client": "VELOXAR MOTORS – Personal Concept Project",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 29,
+    "updatedAt": "2026-11-12T16:59:08.331Z",
+    "createdAt": "2026-11-12T16:59:08.331Z"
   }
 ]
