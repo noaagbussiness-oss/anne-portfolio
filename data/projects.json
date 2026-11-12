@@ -867,5 +867,44 @@
     "order": 27,
     "updatedAt": "2026-11-12T09:55:02.019Z",
     "createdAt": "2026-11-12T09:55:02.019Z"
+  },
+  {
+    "id": "noa-ak-creative-digital-agency-brand-identity",
+    "title": "NOA AK – Creative Digital Agency Brand Identity",
+    "category": "branding-logo-design",
+    "description": "A modern and premium brand identity design created for NOA AK Creative Digital Agency.\n\nThe project features a unique monogram logo combining the letters N and A, representing creativity, innovation, and digital growth.\n\nThe visual identity is built around a sophisticated black, gold, and white colour palette, creating a bold, elegant, and professional brand appearance.\n\nThe project includes primary and alternative logo concepts, icon variations, monochrome versions, typography selection, colour palette development, and realistic brand application mockups.\n\nDesigned to establish a strong and memorable visual identity across digital and print platforms.\n\nCreative Design by NOA AK.",
+    "tags": [
+      "Logo Design",
+      "Brand Identity",
+      "Creative Branding",
+      "Graphic Design",
+      "Monogram Logo",
+      "Business Branding",
+      "Visual Identity",
+      "Brand Guidelines",
+      "Logo Mockup",
+      "Digital Agency",
+      "Typography",
+      "NOA AK"
+    ],
+    "mediaItems": [
+      {
+        "path": "assets/projects/noa-ak-creative-digital-agency-brand-identity/1794502478200-vyq2s-noa-ak-black-and-gold-brand-identity.png",
+        "type": "image"
+      }
+    ],
+    "media": "assets/projects/noa-ak-creative-digital-agency-brand-identity/1794502478200-vyq2s-noa-ak-black-and-gold-brand-identity.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": false,
+    "client": "NOA AK – Personal Brand Concept",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 28,
+    "updatedAt": "2026-11-12T16:54:48.451Z",
+    "createdAt": "2026-11-12T16:54:48.451Z"
   }
 ]
