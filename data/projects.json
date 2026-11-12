@@ -982,5 +982,45 @@
     "order": 30,
     "updatedAt": "2026-11-12T17:02:50.912Z",
     "createdAt": "2026-11-12T17:02:50.912Z"
+  },
+  {
+    "id": "multi-industry-logo-design-brand-identity-showcase",
+    "title": "Multi-Industry Logo Design & Brand Identity Showcase",
+    "category": "branding-logo-design",
+    "description": "A premium collection of nine creative logo designs developed for different industries. This project showcases a diverse range of modern brand identities, combining creative concepts, professional typography, distinctive symbols and carefully selected colour palettes.\n\nThe collection includes Veloxar Motors (Automotive), Elite Builds (Construction), Greenvale Agro Farm (Agriculture), ScholarEdge (Education), Ceylon Trails (Travel & Tourism), Bean & Brew (Café), Nexora Tech (Technology) and FitZone (Fitness) and MedixCare (Healthcare).\n\nEach logo is designed to communicate a unique brand personality while maintaining a strong, memorable and professional visual identity.",
+    "tags": [
+      "Logo Design",
+      "Brand Identity",
+      "Creative Branding",
+      "Graphic Design",
+      "Automotive Logo",
+      "Construction Branding",
+      "Agriculture Branding",
+      "Education Branding",
+      "Travel Branding",
+      "Restaurant Branding",
+      "Technology Branding",
+      "Fitness Branding",
+      "Medical Branding"
+    ],
+    "mediaItems": [
+      {
+        "path": "assets/projects/multi-industry-logo-design-brand-identity-showcase/1794503009471-vuoxm-chatgpt-image-nov-12-2026-10-32-56-pm.png",
+        "type": "image"
+      }
+    ],
+    "media": "assets/projects/multi-industry-logo-design-brand-identity-showcase/1794503009471-vuoxm-chatgpt-image-nov-12-2026-10-32-56-pm.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": true,
+    "client": "Personal / Concept Project",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 31,
+    "updatedAt": "2026-11-12T17:03:34.183Z",
+    "createdAt": "2026-11-12T17:03:34.183Z"
   }
 ]
