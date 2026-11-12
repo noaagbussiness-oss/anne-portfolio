@@ -752,5 +752,43 @@
     "order": 24,
     "updatedAt": "2026-11-12T08:08:01.665Z",
     "createdAt": "2026-11-12T08:08:01.665Z"
+  },
+  {
+    "id": "satlo-premium-office-meeting-tables",
+    "title": "SATLO – Premium Office Meeting Tables | Commercial Advertisement",
+    "category": "ai-cinematic",
+    "description": "A professional commercial advertisement created for SATLO International (Pvt) Ltd, showcasing its premium office meeting tables and customised furniture solutions. The video features cinematic office environments, elegant wooden tabletop details, modern boardroom setups, and an AI-generated presenter to communicate the product's key features. Highlighting custom-made designs, superior quality finishing, integrated tabletop facilities, and trusted solutions for leading institutions in Sri Lanka, the advertisement presents the brand through engaging visual storytelling and premium product presentation. Designed to strengthen brand awareness and attract corporate customers.",
+    "tags": [
+      "SATLO International",
+      "Office Furniture",
+      "Meeting Tables",
+      "Boardroom Furniture",
+      "Commercial Advertisement",
+      "AI Video",
+      "Product Promotion",
+      "Custom Furniture",
+      "Corporate Branding",
+      "Cinematic Advertising",
+      "Sri Lanka"
+    ],
+    "mediaItems": [
+      {
+        "path": "assets/projects/satlo-premium-office-meeting-tables/1794471560871-8hcaz-1109-4-1-1.mp4",
+        "type": "video"
+      }
+    ],
+    "media": "assets/projects/satlo-premium-office-meeting-tables/1794471560871-8hcaz-1109-4-1-1.mp4",
+    "mediaType": "video",
+    "layout": "standard",
+    "published": true,
+    "featured": false,
+    "client": "SATLO International (Pvt) Ltd",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 25,
+    "updatedAt": "2026-11-12T08:19:57.193Z",
+    "createdAt": "2026-11-12T08:19:57.193Z"
   }
 ]
