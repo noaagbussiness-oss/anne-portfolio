@@ -640,5 +640,42 @@
     "order": 21,
     "updatedAt": "2026-11-11T15:57:45.678Z",
     "createdAt": "2026-11-11T15:49:02.459Z"
+  },
+  {
+    "id": "aqualite-water-filter-pure-water-better-life",
+    "title": "Aqualite Water Filter – Pure Water, Better Life",
+    "category": "ai-cinematic",
+    "description": "A professional AI-powered commercial advertisement created for Aqualite Water Filter. The video combines emotional family storytelling, cinematic AI-generated scenes, animated water purification visuals, and premium product showcases. It highlights the importance of clean drinking water while presenting the Aqualite water filtration system and its promotional benefits, including free delivery and installation, a one-year comprehensive warranty, and lifetime service support. Designed to create brand awareness, build customer trust, and encourage product inquiries.",
+    "tags": [
+      "Aqualite",
+      "Water Filter",
+      "AI Advertisement",
+      "Commercial Video",
+      "Product Promotion",
+      "AI Video Generation",
+      "Cinematic Advertising",
+      "Product Showcase",
+      "Brand Marketing",
+      "Motion Graphics"
+    ],
+    "mediaItems": [
+      {
+        "path": "assets/projects/aqualite-water-filter-pure-water-better-life/1794465127856-nyezm-aqualite-filter-ad-1-1.mp4",
+        "type": "video"
+      }
+    ],
+    "media": "assets/projects/aqualite-water-filter-pure-water-better-life/1794465127856-nyezm-aqualite-filter-ad-1-1.mp4",
+    "mediaType": "video",
+    "layout": "standard",
+    "published": true,
+    "featured": true,
+    "client": "Aqualite Water",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 22,
+    "updatedAt": "2026-11-12T06:32:51.776Z",
+    "createdAt": "2026-11-12T06:32:51.778Z"
   }
 ]
